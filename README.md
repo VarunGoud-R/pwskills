@@ -1,2 +1,2 @@
 # pwskills
-Assignments of Physics Wallah...
+Python Assignment
