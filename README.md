@@ -1,2 +1,2 @@
 # pwskills
-DSA Assignment
+Full Stack Data Science Pro Assignment
