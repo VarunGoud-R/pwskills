@@ -1,2 +1,2 @@
 # pwskills
-Full Stack Data Science Pro Assignment
+Python Libraries Assignment
